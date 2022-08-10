@@ -1,3 +1,3 @@
 # Sail Contract URL
 
-[Sail](SAIL CONTRACT)
+(SAIL CONTRACT)[Sail]
